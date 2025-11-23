@@ -15,7 +15,7 @@ Ce projet contient tout le code nécessaire pour exécuter et déployer l'applic
 **Prérequis :** Node.js (version 18 ou supérieure recommandée)
 
 1.  **Cloner le dépôt :**
-    `git clone https://www.wordreference.com/fren/d%C3%A9p%C3%B4t`
+    `git clone [Nom de votre dépôt]`
     `cd [Nom de votre dépôt]`
 
 2.  **Installer les dépendances :**
