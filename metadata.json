@@ -1,0 +1,7 @@
+{
+  "name": "Guide Touristique AR",
+  "description": "Une application de tourisme photo qui identifie les monuments, raconte leur histoire et fournit une narration audio.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
