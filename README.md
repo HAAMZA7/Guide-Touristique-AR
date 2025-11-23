@@ -1,6 +1,4 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://www.reddit.com/r/GoogleAppsScript/comments/1mne5uu/is_there_any_way_to_remove_the_banner/?tl=fr" />
-</div>
+
 
 # Guide Touristique en Réalité Augmentée (AR)
 
