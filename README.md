@@ -1,20 +1,35 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+<img width="1200" height="475" alt="GHBanner" src="https://www.reddit.com/r/GoogleAppsScript/comments/1mne5uu/is_there_any_way_to_remove_the_banner/?tl=fr" />
 </div>
 
-# Run and deploy your AI Studio app
+# Guide Touristique en Réalité Augmentée (AR)
 
-This contains everything you need to run your app locally.
+Ce projet contient tout le code nécessaire pour exécuter et déployer l'application de Guide Touristique AR en local.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1ipzxQbeBaX_RjOlfDD1qJQdIwn6ttfN5
+## 🚀 Fonctionnalités Principales
 
-## Run Locally
+* **Réalité Augmentée (AR) :** Superposition d'informations sur des points d'intérêt en temps réel.
+* **Modèle d'IA :** Utilisation d'un modèle de langage pour générer des descriptions contextuelles et personnalisées.
+* **Interface Utilisateur :** ... (Ajoutez ici une description de l'interface)
 
-**Prerequisites:**  Node.js
+## 💻 Exécuter l'application en local
 
+**Prérequis :** Node.js (version 18 ou supérieure recommandée)
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+1.  **Cloner le dépôt :**
+    `git clone https://www.wordreference.com/fren/d%C3%A9p%C3%B4t`
+    `cd [Nom de votre dépôt]`
+
+2.  **Installer les dépendances :**
+    `npm install`
+
+3.  **Configurer la clé API :**
+    Définissez la clé `[NOM_DE_VOTRE_CLÉ_API]` (ex: `GEMINI_API_KEY`) dans le fichier **`.env.local`** à la racine du projet. Cette clé est nécessaire pour l'accès aux services d'intelligence artificielle.
+
+4.  **Lancer l'application :**
+    `npm run dev`
+
+L'application sera accessible dans votre navigateur à l'adresse `http://localhost:3000`.
+
+---
+*Développé par Hamza DJOUDI*
